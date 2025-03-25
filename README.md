@@ -1,20 +1,12 @@
 # Salesforce-Recruitment-Management-App
 # 🧑‍💻 Salesforce Recruitment Management App Implementation 🧑‍💻
-
-## Overview
-This README provides a step-by-step implementation guide for the **Salesforce Recruitment Management App** built on Salesforce Lightning Experience. This app is designed to automate and streamline the recruitment process, including managing job positions, candidates, interviews, offer letters, background checks, and reporting.
-
-## Project Title: Recruitment Management App  
-**Company**: Nexus Cloud Technologies  
-**Platform**: Salesforce Lightning Experience  
-**Hosted on**: GitHub (for documentation and reference)
-
 ---
-
 ## STEP 1: Project Overview
 
 The **Recruitment Management App** is designed to streamline and automate the hiring process within an organization. It features a suite of Salesforce tools like custom objects, flows, validation rules, reports, dashboards, and automated workflows. The goal is to enhance candidate tracking, job requisition management, interview scheduling, offer management, and overall recruitment process efficiency.
 
+
+![Salesforce Recruitment Management App ](https://github.com/user-attachments/assets/1e3a1975-55a9-4259-8798-72b023649e38)
 ---
 
 ## STEP 2: Custom Objects and Fields
@@ -180,7 +172,5 @@ The **Recruitment Management App** is designed to streamline and automate the hi
 
 This final version of the **Salesforce Recruitment Management App** includes all essential custom objects and fields while ensuring a well-structured security model, reporting system, and automation. The app is now ready for deployment, offering a streamlined recruitment process for enterprise-level organizations.
 
-**Prepared by**: [Your Name]  
-**Role**: Salesforce Admin & Insights Lead  
-**Organization**: Nexus Cloud Technologies
+
 

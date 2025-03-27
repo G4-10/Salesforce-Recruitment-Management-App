@@ -8,7 +8,6 @@ The **Recruitment Management App** is designed to streamline and automate the hi
 
 ![Salesforce Recruitment Management App ](https://github.com/user-attachments/assets/1e3a1975-55a9-4259-8798-72b023649e38)
 ---
-
 ## STEP 2: Custom Objects and Fields
 
 ### 2.1 Job Position  
@@ -108,8 +107,26 @@ The **Recruitment Management App** is designed to streamline and automate the hi
 - **Offer Letter**: Salary Offered must be greater than 10,000: `Salary_Offered__c < 10000`.
 
 ---
+## STEP 5: Automation with Flows
 
-## STEP 5: Security Enhancements
+### Screen Flows
+- **Candidate Quick Application Form**: Create candidate record and application in one screen.
+- **Hiring Manager Feedback Submission**: Let managers rate and submit feedback.
+
+### Record-Triggered Flows
+- **Auto-Assign Recruiter Based on Department** (Job Position trigger).
+- **Update Candidate Status when Offer Sent**.
+- **Create Background Check Record Automatically on Offer Acceptance**.
+
+### Scheduled Flows
+- **Weekly Interview Summary Emails to Recruiters**.
+- **Follow-up Emails to Inactive Candidates**.
+
+### Auto-Launched Flows
+- **Generate Offer Letter Record**.
+- **Send Notifications for Background Check Completion**.
+---
+## STEP 6: Security Enhancements
 
 ### User Management (Org with 75 Users)  
 **Profiles**:  
@@ -149,7 +166,7 @@ The **Recruitment Management App** is designed to streamline and automate the hi
 
 ---
 
-## STEP 6: Reports and Dashboards
+## STEP 7: Reports and Dashboards
 
 ### Reports  
 - Active Applications by Job Title  
@@ -168,9 +185,6 @@ The **Recruitment Management App** is designed to streamline and automate the hi
 
 ---
 
-## STEP 7: Conclusion
+## STEP 8: Conclusion
 
-This final version of the **Salesforce Recruitment Management App** includes all essential custom objects and fields while ensuring a well-structured security model, reporting system, and automation. The app was deploymented Successfully, offering a streamlined recruitment process for enterprise-level organizations (Nexus Cloud Technology).
-
-
-
+This final version of the **Salesforce Recruitment Management App** includes all essential custom objects and fields while ensuring a well-structured security model, reporting system, and automation. The app was deployed successfully, offering a streamlined recruitment process for Nexus Cloud Technology ( enterprise-level organizations).
